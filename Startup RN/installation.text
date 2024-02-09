@@ -1,0 +1,4 @@
+yarn add 
+react-native-loading-spinner-overlay react-redux react-native-vector-icons react-native-size-matters 
+react-native-toast-message @react-navigation/native axios @react-navigation/native-stack react-native-mmkv
+redux-persist @reduxjs/toolkit react-native-gesture-handler 
